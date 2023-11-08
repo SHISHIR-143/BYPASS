@@ -1,4 +1,5 @@
 import os,time
+os.system("clear")
 os.system("git pull")
 print("\033[1;36m PLEASE COPY THE TOOLS SECURITY KEY 🗝️ \n KEY 🗝️ : FUCK YOU ");time.sleep(8)
 
